@@ -1,2 +1,2 @@
 # test_default
-Default templates
+Default templates for CAMARA subprojects
