@@ -1,2 +1,2 @@
-# test_default
-Default templates
+# Default templates
+Example of default Github templates for CAMARA subprojects
